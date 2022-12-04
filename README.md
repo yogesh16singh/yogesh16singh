@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh singh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Zomato clone webpage**
+- 🔭 I’m currently working on **E-commerce website**
 
 - 🌱 I’m currently learning **reactJs,NodeJs**
 
