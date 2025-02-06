@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yogesh singh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Career Counselling website**
+- 🔭 I’m currently working on **Career Counselling App**
 
-- 🌱 I’m currently learning **Next Js Typescript**
+- 🌱 I’m currently learning **React Native Golang Next Js Typescript**
 
 - 📫 How to reach me **ys1997642@gmail.com**
 
